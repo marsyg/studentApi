@@ -1,0 +1,59 @@
+# Operating system files
+/.DS_Store
+/Thumbs.db
+
+# IDE files
+/.idea
+/.vscode
+
+# Build artifacts
+/dist
+/build
+/bin
+
+# Generated files
+/vendor
+/coverage
+
+# Test files
+/test
+/testdata
+
+# Log files
+*.log
+
+# IDE specific files
+# Eclipse
+/.classpath
+/.project
+
+# IntelliJ IDEA
+/.idea
+
+# Visual Studio Code
+/.vscode
+
+# Other IDEs
+# Add more patterns as needed
+
+# OS specific files
+# Windows
+/AppData
+/Local Settings
+/Temp
+/ntfs
+# macOS
+/.DS_Store
+
+# Specific to Go projects
+# Executables
+*.exe
+*.out
+*.so
+
+# Caching directories
+/gocache
+
+# Specific to your project
+# Add any project-specific patterns here
+/config
